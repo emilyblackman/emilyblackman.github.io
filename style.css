@@ -1,0 +1,17 @@
+body {
+	background-color: lime;
+}
+
+li {
+	color: blue;
+}
+
+#cool-gif {
+	width: 1000px;
+}
+#cool-png {
+	width: 10px;
+}
+#right-div {
+	background-color: blue
+}

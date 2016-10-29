@@ -6,5 +6,6 @@ body {
 #centered-text {
 	text-align: center;
 	color: purple;
+	vertical-align:center;
 }
 

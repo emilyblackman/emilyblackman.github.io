@@ -1,20 +1,10 @@
 body {
-	background-color: white;
+	background-color: blue;
 }
 
-li {
-	color: blue;
-}
+
 #centered-text {
-	text-align: center
-	/*vertical-align: center;
-	/*box-align: right;
-	*/
+	text-align: center;
+	
 }
 
-#cool-gif {
-	width: 1000px;
-}
-#cool-png {
-	width: 10px;
-}

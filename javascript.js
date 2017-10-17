@@ -1,10 +1,10 @@
 //window.alert("it's working!");
 
 var main = function() {
-  $(".topNav").click(function(){
-    $(".test"){
-      display:"block"
-    }
+  $('.topNav').click(function(){
+    $('.test').animate({
+      display:'block'
+    }, 1)
   });
 
   

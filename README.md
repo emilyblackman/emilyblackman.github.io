@@ -1,2 +1,2 @@
 # emilyblackman.github.io
-This is my personal website, soon to be improved 
+This is my personal website and is a work in progress.
